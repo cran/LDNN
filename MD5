@@ -1,0 +1,16 @@
+baaa4a353f3ed291c1dcf415c2a9f10b *DESCRIPTION
+510869bc4a4c18d084758cb1074c02cc *NAMESPACE
+cb0d24f30765e8d2b814953fbaf52c24 *R/evaluate_model.R
+ddfe3591bac1d3389ad537651b36ed52 *R/fit_model.R
+0cdd81e744ad24eeff3ab5f7fa75e7db *R/model.R
+195ebbe521e50cfbeda46f0519c01d5d *README.md
+65b25257fa35375bc483226a016e4996 *build/vignette.rds
+5b07512030d55470a8dfa5c6b9c51c90 *inst/doc/packagevignette.R
+5806aed8795e887ea38d861ecaa25024 *inst/doc/packagevignette.Rmd
+44a07ca81807dcd8f15f3c85363e45de *inst/doc/packagevignette.html
+7efd0537b5706162b5847739a94926ae *man/create_model.Rd
+c56f07661ec33a5d8c3985c2d1ac362a *man/evaluate_model.Rd
+301ee1890a12d276f17de37bdb8c8f56 *man/fit_model.Rd
+b98f51d171f11a21450d4a96da4f8905 *tests/testthat.R
+950f206caeb291d151e6f5acdd719b92 *tests/testthat/test_createmodel.R
+5806aed8795e887ea38d861ecaa25024 *vignettes/packagevignette.Rmd
